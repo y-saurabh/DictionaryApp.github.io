@@ -13,7 +13,9 @@ nav{
     padding: 1rem 0;
 }
 
-
+body{
+    background:#8E49E8;
+}
 h2{
     text-align: center;
     font-size: 36px;
